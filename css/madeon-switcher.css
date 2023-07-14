@@ -70,7 +70,7 @@
 }
 
 #madeon-switcher a.color-link:hover {
-    background: #ffa600
+    background: rgb(27, 151, 192);
 }
 
 #madeon-switcher a:hover {
@@ -145,12 +145,12 @@
         transform: rotate(0deg)
     }
     5% {
-        color: #ffa600
+        color: rgb(27, 151, 192);
     }
     30% {
         -webkit-transform: rotate(360deg);
         transform: rotate(360deg);
-        color: #ffa600
+        color: rgb(27, 151, 192);
     }
     35% {
         color: #191c27
@@ -167,12 +167,12 @@
         transform: rotate(0deg)
     }
     5% {
-        color: #ffa600
+        color: rgb(27, 151, 192);
     }
     30% {
         -webkit-transform: rotate(360deg);
         transform: rotate(360deg);
-        color: #ffa600
+        color: rgb(27, 151, 192);
     }
     35% {
         color: #191c27
@@ -250,13 +250,13 @@
 }
 
 #madeon-switcher a#electric {
-    background: #ffa600;
+    background: rgb(27, 151, 192);;
     width: 30px;
     height: 30px
 }
 
 #madeon-switcher a#electric:hover {
-    background: #ffa600
+    background: rgb(27, 151, 192);
 }
 
 #madeon-switcher a#electric:hover i {
