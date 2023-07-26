@@ -202,7 +202,7 @@ table {
     transform: rotate(45deg);
     -webkit-animation: wink .5s infinite;
     animation: wink .5s infinite;
-    border: 5px solid rgb(27, 151, 192);;
+    border: 5px solid #000;;
     border-radius: 1px
 }
 
@@ -420,7 +420,7 @@ h2.home-h2 {
 }
 
 h2 .number {
-    color: rgb(27, 151, 192);
+    color: #000;
 }
 
 h3 {
@@ -532,7 +532,7 @@ sup {
     color: #fff;
     border: none;
     border-radius: 35px;
-    background: rgb(27, 151, 192);
+    background: #000;
 }
 
 .ibtn.light-btn i {
@@ -644,7 +644,7 @@ sup {
 }
 
 .cd-headline.zoom .cd-words-wrapper span.highlight {
-    color: rgb(27, 151, 192);
+    color: #000;
 }
 
 .cd-headline.zoom b {
@@ -911,7 +911,7 @@ sup {
     -webkit-transform: rotateZ(-90deg);
     transform: rotateZ(-90deg);
     opacity: 1;
-    color: rgb(27, 151, 192);
+    color: #000;
 }
 
 #fp-nav ul li a.active .fp-tooltip {
@@ -934,7 +934,7 @@ sup {
     -webkit-transform: rotateZ(-90deg);
     transform: rotateZ(-90deg);
     opacity: 1;
-    color: rgb(27, 151, 192);
+    color: #000;
 }
 
 #fp-nav ul li:hover .fp-tooltip {
@@ -1051,7 +1051,7 @@ sup {
     border: none;
     border-left: none;
     border-radius: 35px;
-    background: rgb(27, 151, 192);
+    background: #000;
 }
 
 #subscribe #notifyMe .form-group button.submit:after {
@@ -1183,7 +1183,7 @@ p.notify-valid span.validation {
 }
 
 .inside-content .text li .fa {
-    color: rgb(27, 151, 192);
+    color: #000;
 }
 
 #contact-form {
@@ -1210,7 +1210,7 @@ p.notify-valid span.validation {
 }
 
 #contact-form .form-group:hover .icon-fields {
-    color: rgb(27, 151, 192);
+    color: #000;
 }
 
 #contact-form .icon-fields {
@@ -1223,7 +1223,7 @@ p.notify-valid span.validation {
 }
 
 #contact-form .icon-fields.active {
-    color: rgb(27, 151, 192);
+    color: #000;
 }
 
 #contact-form .form-group {
@@ -1404,7 +1404,7 @@ p.notify-valid span.validation {
     color: #fff;
     border: none;
     border-radius: 35px;
-    background: rgb(27, 151, 192);
+    background: #000;
 }
 
 #contact-form button#valid-form:after {
@@ -1537,8 +1537,8 @@ p.notify-valid span.validation {
 .social-nav ul li a:hover:before {
     -webkit-transform: rotate(135deg);
     transform: rotate(135deg);
-    border: 1px solid rgb(27, 151, 192);;
-    background: rgb(27, 151, 192);
+    border: 1px solid #000;;
+    background: #000;
 }
 
 .social-nav ul li a i {
